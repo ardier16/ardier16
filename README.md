@@ -1,17 +1,16 @@
 ## Hi, I'm Max Shopynskyi 👋
 ### 💻 Front End Developer
 
-<!--
-**ardier16/ardier16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 📱 Social Media
 
-Here are some ideas to get you started:
+[<img align="left" width="32" height="32" alt="ardier16 Twitter" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-1/1024/twitter-512.png" />](https://twitter.com/ardier16)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" width="32" height="32" alt="ardier16 Twitter" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-1/1024/linkedin-512.png" />](https://linkedin.com/in/ardier16/)
+
+[<img align="left" width="32" height="32" alt="ardier16 Twitter" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-1/1024/instagram-512.png" />](https://instagram.com/ardier16/)
+
+[<img align="left" width="32" height="32" alt="ardier16 Twitter" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-1/1024/facebook-512.png" />](https://facebook.com/ardier16/)
+
+[<img align="left" width="32" height="32" alt="ardier16 Twitter" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-1/1024/bw-3-512.png" />](https://open.spotify.com/user/ardier16)
+
+[<img align="left" width="32" height="32" alt="ardier16 Twitter" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-1/1024/youtube-512.png" />](https://youtube.com/c/ardier16/)
