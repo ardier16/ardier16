@@ -1,4 +1,4 @@
-## My name is Maksym Shopynskyi 👋
+## Maksym Shopynskyi
 ### 💻 I am Front End Developer
 Mostly working with Vue.js.
 
