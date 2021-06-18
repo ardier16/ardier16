@@ -1,8 +1,5 @@
 ## Maksym Shopynskyi
-### 💻 Front End Developer
-Mostly working with Vue.js.
-
-### 📱 Socials
+Front End Developer
 
 [<img align="left" width="32" height="32" alt="ardier16 Twitter" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-1/1024/twitter-512.png" />](https://twitter.com/ardier16)
 
